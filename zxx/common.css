@@ -12,7 +12,7 @@ body {
    line-height:1.6;
    letter-spacing:1px;
    font-family:Verdana, Helvetica, sans-serif;
-   font-size:16px;
+   font-size:20px;
    color:#333;
    background:#ffffff;
 }
@@ -56,7 +56,7 @@ h1,h2,h3,h4,h5,h6 {
 
 #menu {
 	width:1080px;
-	font-size: 20px;
+	font-size: 26px;
 	font-family: "宋体";
 }
 
@@ -165,10 +165,9 @@ h1,h2,h3,h4,h5,h6 {
 
 #menu li a {
 	display:block;
-	width:152px;
+	width:180px;
 	padding:10px 0;
 	color:#000000;
-
 	background-color:#ffffff;/*#5723AA*/
 }
 
@@ -233,7 +232,7 @@ h1,h2,h3,h4,h5,h6 {
 	margin-bottom:8px;
 	padding:15px 0px 15px 0;
 	color:#000000;
-	font-size:18px;
+	font-size:24 px;
 	font-weight:normal;
 	font-family:"宋体";
 	border-bottom:2px solid rgb(235, 235, 235);
@@ -271,7 +270,7 @@ h1,h2,h3,h4,h5,h6 {
 
 #main p {
 	margin:0 0 1em 0;
-	font-size: 16px
+	font-size: 20px
 }
 
 #main dt {
@@ -363,7 +362,7 @@ h1,h2,h3,h4,h5,h6 {
 /* ========sub CONTENTS CUSTOMIZE======== */
 #sub h2 {
    padding:3px;
-   font-size:14px;
+   font-size:24px;
    font-weight:bold;
    color:#101010;
 }
@@ -381,6 +380,7 @@ h1,h2,h3,h4,h5,h6 {
    line-height:1.8;
    background:url(../images/bg_sub_li.gif) 0 4px no-repeat;
    list-style:none;
+	font-size: 20px;
 }
 
 #sub li a {
@@ -415,8 +415,8 @@ h1,h2,h3,h4,h5,h6 {
    text-align:center;
 }
 .date-1 {	
-    line-height: 38px;
-    font-size: 16px;
+    line-height: 40px;
+    font-size: 20px;
 }
 
 .icon-calendar {
